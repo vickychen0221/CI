@@ -1,6 +1,6 @@
 <html>
 <head>
-  <title>Ci 練習</title>
+  <title>Ci 練習_git</title>
 </head>  
 <body>
 
